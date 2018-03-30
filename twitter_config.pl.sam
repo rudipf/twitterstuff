@@ -1,0 +1,7 @@
+      consumer_key        => "XXXXX",
+      consumer_secret     => "XXXX",
+      access_token        => "XXXXX",
+      access_token_secret => "XXXXX",
+      ssl                 => 1,
+          authenticate => 1
+
